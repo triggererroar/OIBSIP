@@ -1,0 +1,91 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    color: gray;
+}
+
+header {
+    background: linear-gradient(45deg, #924936, #dc853d, #dc4981);
+    padding: 25px;
+}
+
+header h1 {
+    color: whitesmoke;
+}
+
+p {
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    border: none;
+    margin: 10px;
+}
+
+.button {
+    background-color: gray;
+    padding: 10px 25px;
+    border: none;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+nav {
+    background-color: lightgrey;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 18px;
+    color: black;
+}
+
+nav a:hover {
+    background-color: lightseagreen;
+    color: whitesmoke;
+}
+
+.home-section {
+    padding: 100px;
+}
+
+div {
+    width: 100%;
+    height: auto;
+}
+
+.postcard {
+    width: 300px;
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 0 10px black;
+    padding: 10px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.main-footer {
+    background-color: gray;
+    color: whitesmoke;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.button:hover {
+    background-color: lightseagreen;
+    color: whitesmoke;
+}
